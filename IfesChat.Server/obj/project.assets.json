@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dapaz\\Documents\\Programação\\IfesChat\\IfesChat.Server\\IfesChat.Server.csproj",
+      "projectUniqueName": "C:\\Users\\dapaz\\Documents\\GitHub\\Ligação IP Chat's\\IfesChat.Server\\IfesChat.Server.csproj",
       "projectName": "IfesChat.Server",
-      "projectPath": "C:\\Users\\dapaz\\Documents\\Programação\\IfesChat\\IfesChat.Server\\IfesChat.Server.csproj",
+      "projectPath": "C:\\Users\\dapaz\\Documents\\GitHub\\Ligação IP Chat's\\IfesChat.Server\\IfesChat.Server.csproj",
       "packagesPath": "C:\\Users\\dapaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dapaz\\Documents\\Programação\\IfesChat\\IfesChat.Server\\obj\\",
+      "outputPath": "C:\\Users\\dapaz\\Documents\\GitHub\\Ligação IP Chat's\\IfesChat.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dapaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

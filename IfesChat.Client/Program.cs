@@ -1,18 +1,26 @@
 ﻿using System.Net.Sockets;
 using System.Text;
 
+
 string serverIP = "26.194.71.69";
 int port = 5000;
 
 try
 {
+    Console.WriteLine("Digite seu nome: ");
+    string? nome = Console.ReadLine();
+    
     using TcpClient client = new TcpClient();
     await client.ConnectAsync(serverIP, port);
-    Console.WriteLine("[CLIENTE] Conectado! Digite suas mensagens (ou 'sair' para encerrar):");
-
+    
     using NetworkStream stream = client.GetStream();
     
-    // Task para ficar ouvindo o servidor em segundo plano
+    byte[] sendNameBuffer = Encoding.UTF8.GetBytes(nome);
+    await stream.WriteAsync(sendNameBuffer, 0, sendNameBuffer.Length);
+    
+    
+    Console.WriteLine($"[CLIENTE] {nome} Conectado! Digite suas mensagens (ou 'sair' para encerrar):");
+    
     _ = Task.Run(async () =>
     {
         byte[] receiveBuffer = new byte[1024];
@@ -23,11 +31,10 @@ try
 
             string resposta = Encoding.UTF8.GetString(receiveBuffer, 0, bytesRead);
             Console.WriteLine($"\n[SERVIDOR]: {resposta}");
-            Console.Write("> "); // Volta o prompt para o usuário
+            Console.Write("> "); 
         }
     });
-
-    // Loop principal para enviar mensagens
+    
     while (true)
     {
         Console.Write("> ");
@@ -46,3 +53,5 @@ catch (Exception ex)
 }
 
 Console.WriteLine("Saindo do chat...");
+
+

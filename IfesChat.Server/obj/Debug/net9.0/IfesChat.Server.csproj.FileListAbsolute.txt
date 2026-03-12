@@ -12,3 +12,17 @@ C:\Users\dapaz\Documents\Programação\IfesChat\IfesChat.Server\obj\Debug\net9.0
 C:\Users\dapaz\Documents\Programação\IfesChat\IfesChat.Server\obj\Debug\net9.0\IfesChat.Server.pdb
 C:\Users\dapaz\Documents\Programação\IfesChat\IfesChat.Server\obj\Debug\net9.0\IfesChat.Server.genruntimeconfig.cache
 C:\Users\dapaz\Documents\Programação\IfesChat\IfesChat.Server\obj\Debug\net9.0\ref\IfesChat.Server.dll
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\bin\Debug\net9.0\IfesChat.Server.exe
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\bin\Debug\net9.0\IfesChat.Server.deps.json
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\bin\Debug\net9.0\IfesChat.Server.runtimeconfig.json
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\bin\Debug\net9.0\IfesChat.Server.dll
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\bin\Debug\net9.0\IfesChat.Server.pdb
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\obj\Debug\net9.0\IfesChat.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\obj\Debug\net9.0\IfesChat.Server.AssemblyInfoInputs.cache
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\obj\Debug\net9.0\IfesChat.Server.AssemblyInfo.cs
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\obj\Debug\net9.0\IfesChat.Server.csproj.CoreCompileInputs.cache
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\obj\Debug\net9.0\IfesChat.Server.dll
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\obj\Debug\net9.0\refint\IfesChat.Server.dll
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\obj\Debug\net9.0\IfesChat.Server.pdb
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\obj\Debug\net9.0\IfesChat.Server.genruntimeconfig.cache
+C:\Users\dapaz\Documents\GitHub\Ligação IP Chat's\IfesChat.Server\obj\Debug\net9.0\ref\IfesChat.Server.dll

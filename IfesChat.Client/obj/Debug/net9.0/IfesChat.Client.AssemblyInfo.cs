@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IfesChat.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6442575cee72e67281731e2a86c7e1340fc08c2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("IfesChat.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IfesChat.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

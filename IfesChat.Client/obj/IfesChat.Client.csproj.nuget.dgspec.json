@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dapaz\\Documents\\Programação\\IfesChat\\IfesChat.Client\\IfesChat.Client.csproj": {}
+    "C:\\Users\\dapaz\\Documents\\GitHub\\Ligação IP Chat's\\IfesChat.Client\\IfesChat.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dapaz\\Documents\\Programação\\IfesChat\\IfesChat.Client\\IfesChat.Client.csproj": {
+    "C:\\Users\\dapaz\\Documents\\GitHub\\Ligação IP Chat's\\IfesChat.Client\\IfesChat.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dapaz\\Documents\\Programação\\IfesChat\\IfesChat.Client\\IfesChat.Client.csproj",
+        "projectUniqueName": "C:\\Users\\dapaz\\Documents\\GitHub\\Ligação IP Chat's\\IfesChat.Client\\IfesChat.Client.csproj",
         "projectName": "IfesChat.Client",
-        "projectPath": "C:\\Users\\dapaz\\Documents\\Programação\\IfesChat\\IfesChat.Client\\IfesChat.Client.csproj",
+        "projectPath": "C:\\Users\\dapaz\\Documents\\GitHub\\Ligação IP Chat's\\IfesChat.Client\\IfesChat.Client.csproj",
         "packagesPath": "C:\\Users\\dapaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dapaz\\Documents\\Programação\\IfesChat\\IfesChat.Client\\obj\\",
+        "outputPath": "C:\\Users\\dapaz\\Documents\\GitHub\\Ligação IP Chat's\\IfesChat.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dapaz\\AppData\\Roaming\\NuGet\\NuGet.Config"
